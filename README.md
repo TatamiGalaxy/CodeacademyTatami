@@ -1,1 +1,1 @@
-# CodeacademyTatami
+# TatamiGalaxy.github.io
